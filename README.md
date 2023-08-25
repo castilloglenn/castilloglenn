@@ -1,4 +1,4 @@
-## **Software Engineer (Full-time/Freelance)**
+## **Software Developer (Full-time/Freelance)**
 **Worked on:** Data Science, Machine Learning & Automation
 
 **Explores:** Full-Stack Web Development
