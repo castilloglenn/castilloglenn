@@ -1,7 +1,7 @@
 ## **Software Engineer**
-**Worked on:** Data Science, Machine Learning & Automation
+**Worked on:** Data Science, Machine Learning, Automation, Full-Stack Web & Mobile App Development
 
-**Explores:** Full-Stack Web and Mobile App Development
+**Explores:** Project Management, Product Design & Systems Architecture
 
 **Passions:** Game Development & Complex Algorithms
 
