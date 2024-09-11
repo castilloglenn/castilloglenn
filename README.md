@@ -3,4 +3,4 @@
 **Focus Areas:** Project Management, Product Design, Systems Architecture<br>
 **Interests:** Game Development, Complex Algorithms, Tasks Automation
 
-**![Portfolio Icon](https://cdn.simpleicons.org/icloud?size=12) [Portfolio](https://castilloglenn.github.io/)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;![LinkedIn Icon](https://cdn.simpleicons.org/linkedin?size=12) [LinkedIn](https://www.linkedin.com/in/castilloglenn)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;![Upwork Icon](https://cdn.simpleicons.org/upwork?size=12) [Upwork](https://www.upwork.com/freelancers/~0134c73d8fad9c2581)**
+**![Portfolio Icon](https://cdn.simpleicons.org/icloud?size=12) [Portfolio](https://castilloglenn.github.io/)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;![LinkedIn Icon](https://cdn.simpleicons.org/linkedin?size=12) [LinkedIn](https://www.linkedin.com/in/castilloglenn)**
