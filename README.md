@@ -3,9 +3,11 @@
 ![Total Stars](https://img.shields.io/github/stars/castilloglenn?style=flat&label=Stars&logo=github)
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fcastilloglenn&count_bg=%230085EA&title_bg=%23555555&icon=github.svg&icon_color=%23FFFFFF&title=Visits&edge_flat=false)](https://hits.seeyoufarm.com)
 
-**Expertise:** Data Science, Machine Learning, Automation, Full-Stack Web & Mobile App Development<br>
-**Focus Areas:** Project Management, Product Design, Systems Architecture<br>
-**Interests:** Game Development, Complex Algorithms, Tasks Automation
+**Professional Experiences:** Data Science, Machine Learning, Automation, Full-Stack Web & Mobile App Development
+
+**Focus Areas:** Project Management, Product Design, Systems Architecture
+
+**Interests:** Game Development, Complex Algorithms
 
 ## **External Links**
 
