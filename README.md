@@ -9,9 +9,18 @@
 
 ## **External Links**
 
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat&logo=icloud&logoColor=white)](https://castilloglenn.github.io/)
+&nbsp;
+[![Upwork](https://img.shields.io/badge/Upwork-238636?style=flat&logo=upwork&logoColor=white)](https://www.upwork.com/freelancers/~0134c73d8fad9c2581)
+&nbsp;
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/castilloglenn)
-&nbsp;&nbsp;
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat&logo=github&logoColor=white)](https://castilloglenn.github.io/)
+&nbsp;
+[![Codewars](https://img.shields.io/badge/Codewars-B1361E?style=flat&logo=codewars&logoColor=white)](https://www.codewars.com/users/castilloglenn)
+&nbsp;
+[![StackOverflow](https://img.shields.io/badge/StackOverflow-F58025?style=flat&logo=stackoverflow&logoColor=white)](https://stackoverflow.com/users/12091931/glenn)
+&nbsp;
+[![DEV.to](https://img.shields.io/badge/DEV.to-000000?style=flat&logo=devdotto&logoColor=white)](https://dev.to/castilloglenn)
+
 
 ## **Skills and Technologies**
 
