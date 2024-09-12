@@ -1,5 +1,7 @@
 ## **Software Engineer**
 
+![GitHub Stats](https://github-readme-streak-stats.herokuapp.com/?user=castilloglenn&theme=dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&mode=weekly)
+
 ![Total Stars](https://img.shields.io/github/stars/castilloglenn?style=flat&label=Stars&logo=github)
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fcastilloglenn&count_bg=%230085EA&title_bg=%23555555&icon=github.svg&icon_color=%23FFFFFF&title=Visits&edge_flat=false)](https://hits.seeyoufarm.com)
 
@@ -48,13 +50,13 @@
 [![Datadog](https://img.shields.io/badge/Datadog-6354F2?style=flat&logo=datadog&logoColor=white)](https://www.linkedin.com/in/castilloglenn)
 
 ## **Personal Projects**
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=castilloglenn&repo=entrepinoy&theme=dark)](https://github.com/castilloglenn/entrepinoy)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=castilloglenn&repo=slime-smashers&theme=dark)](https://github.com/castilloglenn/slime-smashers)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=castilloglenn&repo=entrepinoy&theme=dark&hide_border=true)](https://github.com/castilloglenn/entrepinoy)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=castilloglenn&repo=slime-smashers&theme=dark&hide_border=true)](https://github.com/castilloglenn/slime-smashers)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=castilloglenn&repo=shell-scripts&theme=dark)](https://github.com/castilloglenn/shell-scripts)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=castilloglenn&repo=retail-sales-system&theme=dark)](https://github.com/castilloglenn/retail-sales-system)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=castilloglenn&repo=shell-scripts&theme=dark&hide_border=true)](https://github.com/castilloglenn/shell-scripts)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=castilloglenn&repo=retail-sales-system&theme=dark&hide_border=true)](https://github.com/castilloglenn/retail-sales-system)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=castilloglenn&repo=fred-gen-merch-system&theme=dark)](https://github.com/castilloglenn/fred-gen-merch-system)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=castilloglenn&repo=task-logger&theme=dark)](https://github.com/castilloglenn/task-logger)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=castilloglenn&repo=fred-gen-merch-system&theme=dark&hide_border=true)](https://github.com/castilloglenn/fred-gen-merch-system)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=castilloglenn&repo=task-logger&theme=dark&hide_border=true)](https://github.com/castilloglenn/task-logger)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=castilloglenn&repo=enrollment-system&theme=dark)](https://github.com/castilloglenn/enrollment-system)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=castilloglenn&repo=ecom-project&theme=dark)](https://github.com/castilloglenn/ecom-project)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=castilloglenn&repo=enrollment-system&theme=dark&hide_border=true)](https://github.com/castilloglenn/enrollment-system)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=castilloglenn&repo=ecom-project&theme=dark&hide_border=true)](https://github.com/castilloglenn/ecom-project)
 
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=castilloglenn&repo=castilloglenn.github.io&theme=dark)](https://github.com/castilloglenn/castilloglenn.github.io)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=castilloglenn&repo=neko&theme=dark)](https://github.com/castilloglenn/neko)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=castilloglenn&repo=castilloglenn.github.io&theme=dark&hide_border=true)](https://github.com/castilloglenn/castilloglenn.github.io)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=castilloglenn&repo=neko&theme=dark&hide_border=true)](https://github.com/castilloglenn/neko)
