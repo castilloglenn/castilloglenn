@@ -44,9 +44,6 @@
 [![Microsoft Azure](https://img.shields.io/badge/Azure-0078D4?style=flat&logo=microsoftazure&logoColor=white)](https://www.linkedin.com/in/castilloglenn)
 [![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black)](https://www.linkedin.com/in/castilloglenn)
 [![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat&logo=github-actions&logoColor=white)](https://www.linkedin.com/in/castilloglenn)
-[![Azure Pipelines](https://img.shields.io/badge/Azure%20Pipelines-0078D4?style=flat&logo=azure-devops&logoColor=white)](https://www.linkedin.com/in/castilloglenn)
-[![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=flat&logo=terraform&logoColor=white)](https://www.linkedin.com/in/castilloglenn)
-[![Datadog](https://img.shields.io/badge/Datadog-6354F2?style=flat&logo=datadog&logoColor=white)](https://www.linkedin.com/in/castilloglenn)
 
 ## **Personal Projects**
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=castilloglenn&repo=entrepinoy&theme=dark&hide_border=true)](https://github.com/castilloglenn/entrepinoy)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=castilloglenn&repo=slime-smashers&theme=dark&hide_border=true)](https://github.com/castilloglenn/slime-smashers)
