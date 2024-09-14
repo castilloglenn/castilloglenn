@@ -7,20 +7,6 @@
 🎮 Interests: Game Dev, Complex Algorithms<br>
 ![GitHub Stats](https://github-readme-streak-stats.herokuapp.com/?user=castilloglenn&theme=dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&mode=weekly&disable_animations=true&background=0D1118)
 
-## **🔗 Connect with Me**
-
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat&logo=icloud&logoColor=white)](https://castilloglenn.github.io/)
-&nbsp;
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/castilloglenn)
-&nbsp;
-[![Upwork](https://img.shields.io/badge/Upwork-238636?style=flat&logo=upwork&logoColor=white)](https://www.upwork.com/freelancers/~0134c73d8fad9c2581)
-&nbsp;
-[![Codewars](https://img.shields.io/badge/Codewars-B1361E?style=flat&logo=codewars&logoColor=white)](https://www.codewars.com/users/castilloglenn)
-&nbsp;
-[![StackOverflow](https://img.shields.io/badge/StackOverflow-F58025?style=flat&logo=stackoverflow&logoColor=white)](https://stackoverflow.com/users/12091931/glenn)
-&nbsp;
-[![DEV.to](https://img.shields.io/badge/DEV.to-000000?style=flat&logo=devdotto&logoColor=white)](https://dev.to/castilloglenn)
-
 ## **🛠️ Tech Stack & Skills**
 
 [![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)](https://www.linkedin.com/in/castilloglenn)
@@ -42,6 +28,20 @@
 [![Microsoft Azure](https://img.shields.io/badge/Azure-0078D4?style=flat&logo=microsoftazure&logoColor=white)](https://www.linkedin.com/in/castilloglenn)
 [![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black)](https://www.linkedin.com/in/castilloglenn)
 [![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat&logo=github-actions&logoColor=white)](https://www.linkedin.com/in/castilloglenn)
+
+## **🔗 Connect with Me**
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat&logo=icloud&logoColor=white)](https://castilloglenn.github.io/)
+&nbsp;
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/castilloglenn)
+&nbsp;
+[![Upwork](https://img.shields.io/badge/Upwork-238636?style=flat&logo=upwork&logoColor=white)](https://www.upwork.com/freelancers/~0134c73d8fad9c2581)
+&nbsp;
+[![Codewars](https://img.shields.io/badge/Codewars-B1361E?style=flat&logo=codewars&logoColor=white)](https://www.codewars.com/users/castilloglenn)
+&nbsp;
+[![StackOverflow](https://img.shields.io/badge/StackOverflow-F58025?style=flat&logo=stackoverflow&logoColor=white)](https://stackoverflow.com/users/12091931/glenn)
+&nbsp;
+[![DEV.to](https://img.shields.io/badge/DEV.to-000000?style=flat&logo=devdotto&logoColor=white)](https://dev.to/castilloglenn)
 
 ## **🚀 Current Projects & Experiments**
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=castilloglenn&repo=dataflow-animation&theme=dark&border_color=1f242b&bg_color=0d1118&title_color=1f6fec&icon_color=9098a0)](https://github.com/castilloglenn/dataflow-animation)
