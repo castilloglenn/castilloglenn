@@ -21,7 +21,6 @@ Interests: Game Development, Complex Algorithms<br>
 &nbsp;
 [![DEV.to](https://img.shields.io/badge/DEV.to-000000?style=flat&logo=devdotto&logoColor=white)](https://dev.to/castilloglenn)
 
-
 ### **Skills and Technologies**
 
 [![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)](https://www.linkedin.com/in/castilloglenn)
@@ -54,3 +53,5 @@ Interests: Game Development, Complex Algorithms<br>
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=castilloglenn&repo=enrollment-system&theme=dark&hide_border=true)](https://github.com/castilloglenn/enrollment-system)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=castilloglenn&repo=dataflow-animation&theme=dark&hide_border=true)](https://github.com/castilloglenn/dataflow-animation)
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=castilloglenn&repo=castilloglenn.github.io&theme=dark&hide_border=true)](https://github.com/castilloglenn/castilloglenn.github.io)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=castilloglenn&repo=neko&theme=dark&hide_border=true)](https://github.com/castilloglenn/neko)
+
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=castilloglenn&theme=github-compact&days=14&custom_title=Activity%20over%20the%20past%2014%20days&hide_border=true&height=300)](https://github.com/castilloglenn?tab=repositories)
