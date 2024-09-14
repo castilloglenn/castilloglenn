@@ -2,12 +2,12 @@
 ![Total Stars](https://img.shields.io/github/stars/castilloglenn?style=flat&label=Stars&logo=github)
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fcastilloglenn&count_bg=%230085EA&title_bg=%23555555&icon=github.svg&icon_color=%23FFFFFF&title=Visits&edge_flat=false)](https://hits.seeyoufarm.com)
 
-Professional Experiences: Data Science, Machine Learning, Automation, Full-Stack Web & Mobile App Development<br>
-Focus Areas: Project Management, Product Design, Systems Architecture<br>
-Interests: Game Development, Complex Algorithms<br>
+🚀 Skills & Expertise: Data Science, ML, Automation, Full-Stack Dev<br>
+🎯 Focus: Project Management, Product Design, Systems Architecture<br>
+🎮 Interests: Game Dev, Complex Algorithms<br>
 ![GitHub Stats](https://github-readme-streak-stats.herokuapp.com/?user=castilloglenn&theme=dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&mode=weekly&disable_animations=true&background=0D1118)
 
-### **External Links**
+## **🔗 Connect with Me**
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat&logo=icloud&logoColor=white)](https://castilloglenn.github.io/)
 &nbsp;
@@ -21,7 +21,7 @@ Interests: Game Development, Complex Algorithms<br>
 &nbsp;
 [![DEV.to](https://img.shields.io/badge/DEV.to-000000?style=flat&logo=devdotto&logoColor=white)](https://dev.to/castilloglenn)
 
-### **Skills and Technologies**
+## **🛠️ Tech Stack & Skills**
 
 [![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)](https://www.linkedin.com/in/castilloglenn)
 [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1C?style=flat&logo=javascript&logoColor=black)](https://www.linkedin.com/in/castilloglenn)
@@ -43,7 +43,7 @@ Interests: Game Development, Complex Algorithms<br>
 [![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black)](https://www.linkedin.com/in/castilloglenn)
 [![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat&logo=github-actions&logoColor=white)](https://www.linkedin.com/in/castilloglenn)
 
-### **On-going Personal Projects (that I am working on my free time)**
+## **🚀 Current Projects & Experiments**
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=castilloglenn&repo=dataflow-animation&theme=dark&border_color=1f242b&bg_color=0d1118&title_color=1f6fec&icon_color=9098a0)](https://github.com/castilloglenn/dataflow-animation)
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=castilloglenn&repo=portfolio&theme=dark&border_color=1f242b&bg_color=0d1118&title_color=1f6fec&icon_color=9098a0)](https://github.com/castilloglenn/portfolio)
@@ -56,4 +56,5 @@ Interests: Game Development, Complex Algorithms<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=castilloglenn&repo=neko&theme=dark&border_color=1f242b&bg_color=0d1118&title_color=1f6fec&icon_color=9098a0)](https://github.com/castilloglenn/neko)
 
+## **📈 Recent Activity & Insights**
 [![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=castilloglenn&theme=github-compact&days=14&custom_title=Activity%20over%20the%20past%2014%20days&hide_border=true&height=250)](https://github.com/castilloglenn?tab=repositories)
