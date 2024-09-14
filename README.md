@@ -43,15 +43,17 @@ Interests: Game Development, Complex Algorithms<br>
 [![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black)](https://www.linkedin.com/in/castilloglenn)
 [![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat&logo=github-actions&logoColor=white)](https://www.linkedin.com/in/castilloglenn)
 
-### **Personal Projects**
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=castilloglenn&repo=entrepinoy&theme=dark&border_color=1f242b&bg_color=0d1118&title_color=1f6fec&icon_color=9098a0)](https://github.com/castilloglenn/entrepinoy)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=castilloglenn&repo=slime-smashers&theme=dark&border_color=1f242b&bg_color=0d1118&title_color=1f6fec&icon_color=9098a0)](https://github.com/castilloglenn/slime-smashers)
+### **On-going Personal Projects (that I am working on my free time)**
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=castilloglenn&repo=dataflow-animation&theme=dark&border_color=1f242b&bg_color=0d1118&title_color=1f6fec&icon_color=9098a0)](https://github.com/castilloglenn/dataflow-animation)
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=castilloglenn&repo=portfolio&theme=dark&border_color=1f242b&bg_color=0d1118&title_color=1f6fec&icon_color=9098a0)](https://github.com/castilloglenn/portfolio)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=castilloglenn&repo=shell-scripts&theme=dark&border_color=1f242b&bg_color=0d1118&title_color=1f6fec&icon_color=9098a0)](https://github.com/castilloglenn/shell-scripts)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=castilloglenn&repo=retail-sales-system&theme=dark&border_color=1f242b&bg_color=0d1118&title_color=1f6fec&icon_color=9098a0)](https://github.com/castilloglenn/retail-sales-system)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=castilloglenn&repo=slime-smashers&theme=dark&border_color=1f242b&bg_color=0d1118&title_color=1f6fec&icon_color=9098a0)](https://github.com/castilloglenn/slime-smashers)
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=castilloglenn&repo=shell-scripts&theme=dark&border_color=1f242b&bg_color=0d1118&title_color=1f6fec&icon_color=9098a0)](https://github.com/castilloglenn/shell-scripts)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=castilloglenn&repo=fred-gen-merch-system&theme=dark&border_color=1f242b&bg_color=0d1118&title_color=1f6fec&icon_color=9098a0)](https://github.com/castilloglenn/fred-gen-merch-system)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=castilloglenn&repo=task-logger&theme=dark&border_color=1f242b&bg_color=0d1118&title_color=1f6fec&icon_color=9098a0)](https://github.com/castilloglenn/task-logger)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=castilloglenn&repo=rl-agent-for-fun&theme=dark&border_color=1f242b&bg_color=0d1118&title_color=1f6fec&icon_color=9098a0)](https://github.com/castilloglenn/rl-agent-for-fun)
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=castilloglenn&repo=neko&theme=dark&border_color=1f242b&bg_color=0d1118&title_color=1f6fec&icon_color=9098a0)](https://github.com/castilloglenn/neko)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=castilloglenn&repo=enrollment-system&theme=dark&border_color=1f242b&bg_color=0d1118&title_color=1f6fec&icon_color=9098a0)](https://github.com/castilloglenn/enrollment-system)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=castilloglenn&repo=dataflow-animation&theme=dark&border_color=1f242b&bg_color=0d1118&title_color=1f6fec&icon_color=9098a0)](https://github.com/castilloglenn/dataflow-animation)
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=castilloglenn&repo=castilloglenn.github.io&theme=dark&border_color=1f242b&bg_color=0d1118&title_color=1f6fec&icon_color=9098a0)](https://github.com/castilloglenn/castilloglenn.github.io)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=castilloglenn&repo=neko&theme=dark&border_color=1f242b&bg_color=0d1118&title_color=1f6fec&icon_color=9098a0)](https://github.com/castilloglenn/neko)
-
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=castilloglenn&theme=github-compact&days=14&custom_title=Activity%20over%20the%20past%2014%20days&hide_border=true&height=300)](https://github.com/castilloglenn?tab=repositories)
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=castilloglenn&theme=github-compact&days=14&custom_title=Activity%20over%20the%20past%2014%20days&hide_border=true&height=250)](https://github.com/castilloglenn?tab=repositories)
