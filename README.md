@@ -17,8 +17,7 @@
 
 🚀 Skills & Expertise: Data Science, ML, Automation, Full-Stack Dev<br>
 🎯 Focus: Project Management, Product Design, Systems Architecture<br>
-🎮 Interests: Game Dev, Complex Algorithms<br>
-![GitHub Stats](https://github-readme-streak-stats.herokuapp.com/?user=castilloglenn&theme=dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&mode=weekly&disable_animations=true&background=0D1118)
+🎮 Interests: Game Dev, Complex Algorithms
 
 ### **🚀 Current Projects & Experiments**
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=castilloglenn&repo=dataflow-animation&theme=dark&border_color=1f242b&bg_color=0d1118&title_color=1f6fec&icon_color=9098a0&timestamp=20240914)](https://github.com/castilloglenn/dataflow-animation)
