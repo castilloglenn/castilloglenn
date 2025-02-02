@@ -19,6 +19,9 @@
 🎯 Focus: Project Management, Product Design, Systems Architecture<br>
 🎮 Interests: Game Dev, Complex Algorithms
 
+### **📈 Recent Activity & Insights**
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=castilloglenn&theme=github-compact&days=30&custom_title=Activity%20over%20the%20past%2030%20days&hide_border=true&height=250&point=28a642)](https://github.com/castilloglenn?tab=repositories)
+
 ### **🚀 Current Projects & Experiments**
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=castilloglenn&repo=dataflow-animation&theme=dark&border_color=1f242b&bg_color=0d1118&title_color=1f6fec&icon_color=9098a0&timestamp=20240914)](https://github.com/castilloglenn/dataflow-animation)
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
@@ -31,9 +34,3 @@
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=castilloglenn&repo=rl-agent-for-fun&theme=dark&border_color=1f242b&bg_color=0d1118&title_color=1f6fec&icon_color=9098a0&timestamp=20240914)](https://github.com/castilloglenn/rl-agent-for-fun)
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=castilloglenn&repo=neko&theme=dark&border_color=1f242b&bg_color=0d1118&title_color=1f6fec&icon_color=9098a0&timestamp=20240914)](https://github.com/castilloglenn/neko)
-
-### **📈 Recent Activity & Insights**
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=castilloglenn&theme=github-compact&days=7&custom_title=Activity%20over%20the%20past%207%20days&hide_border=true&height=250&point=28a642)](https://github.com/castilloglenn?tab=repositories)
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=castilloglenn&theme=github-compact&days=14&custom_title=Activity%20over%20the%20past%2014%20days&hide_border=true&height=250&point=28a642)](https://github.com/castilloglenn?tab=repositories)
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=castilloglenn&theme=github-compact&days=30&custom_title=Activity%20over%20the%20past%2030%20days&hide_border=true&height=250&point=28a642)](https://github.com/castilloglenn?tab=repositories)
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=castilloglenn&theme=github-compact&days=60&custom_title=Activity%20over%20the%20past%2060%20days&hide_border=true&height=250&point=28a642)](https://github.com/castilloglenn?tab=repositories)
