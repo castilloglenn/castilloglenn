@@ -1,5 +1,5 @@
 ## **Software Engineer**
-Skills & Expertise: Data Science, ML, Automation, Full-Stack Dev<br>
+Skills & Expertise: Data Science, ML, Automation, Full-Stack Dev (Web and Mobile)<br>
 Focus: Project Management, Product Design, Systems Architecture<br>
 Interests: Game Dev, Complex Algorithms
 
