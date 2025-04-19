@@ -5,8 +5,6 @@ Interests: Game Dev, Complex Algorithms
 
 ![Total Stars](https://img.shields.io/github/stars/castilloglenn?style=flat&label=Stars&logo=github)
 &nbsp;
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fcastilloglenn&count_bg=%230085EA&title_bg=%23555555&icon=github.svg&icon_color=%23FFFFFF&title=Visits&edge_flat=false)](https://hits.seeyoufarm.com)
-&nbsp;
 [![Portfolio](https://img.shields.io/badge/Portfolio-0A66C2?style=flat&logo=Supabase&logoColor=white)](https://castilloglenn.github.io/)
 &nbsp;
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/castilloglenn)
