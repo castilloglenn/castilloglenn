@@ -1,7 +1,7 @@
 ## **Software Engineer**
 Skills & Expertise: Data Science, ML, Automation, Full-Stack Dev (Web and Mobile)<br>
 Focus: Project Management, Product Design, Systems Architecture<br>
-Interests: Game Dev, Complex Algorithms
+Interests: Tech Research, Game Development, Rapid Prototyping
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-29599a?style=flat&logo=none&logoColor=white)](https://castilloglenn.github.io/)
 &nbsp;
