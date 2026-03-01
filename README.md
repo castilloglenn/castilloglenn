@@ -1,4 +1,4 @@
-## **Software Engineer**
+## **Lead Software Engineer**
 Skills & Expertise: Full-Stack Dev (Web, Mobile), Data Science, Automation <br>
 Focus: Project Management, Product Design, Systems Architecture<br>
 Interests: Tech Research, Game Development, Rapid Prototyping, Cloud Computing, Creating tech businesses
