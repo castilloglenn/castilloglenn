@@ -1,6 +1,3 @@
-## Lead Software Engineer
-Full-Stack · Cloud Infrastructure · Systems Architecture
-
 | Skills & Expertise | Focus | Interests |
 |---|---|---|
 | Full-Stack (Web & Mobile), Cloud Infrastructure (AWS/GCP), Data Science, Automation | Systems Architecture, Project Management, Product Design | Tech Research, Game Development, Rapid Prototyping, Cloud Computing, Building Tech Businesses |
