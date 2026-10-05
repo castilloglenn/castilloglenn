@@ -7,7 +7,7 @@ Lead Software Engineer based in the Philippines. I build full-stack web and mobi
 - 🎮 For fun: game development and rapid prototyping
 - 💼 Let's connect on [LinkedIn](https://www.linkedin.com/in/castilloglenn/)
 
-<img src="https://skillicons.dev/icons?i=py,js,dart,react,nextjs,flutter,fastapi,aws,gcp,cloudflare,terraform,githubactions" alt="Tech stack" />
+<img src="https://go-skill-icons.vercel.app/api/icons?i=py,js,dart,react,nextjs,flutter,fastapi,aws,gcp,cloudflare,terraform,githubactions,claude,mcp" alt="Tech stack" />
 
 ### 📱 Try Fiscora
 
